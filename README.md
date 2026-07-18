@@ -17,7 +17,7 @@ Open `index.html` in a browser. That's it. No build step, no `npm install`, no 4
 
 ## Deployment
 
-Live at: [Link]
+Live at: [Link](https://codle-two.vercel.app/)
 
 Deployed on Vercel, it's static HTML/CSS/JS, so there's nothing to configure. 
 
@@ -54,4 +54,4 @@ script.js
 
 ## License
 
-Do whatever you want with it. Add words, break the CSS, rename. Sometimes guessing can get hard :)
+Do whatever you want with it. Add words, break the CSS, rename the files. Sometimes guessing can get hard :)
